@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0997-find-the-town-judge](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -99,5 +101,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
+## Sliding Window
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
