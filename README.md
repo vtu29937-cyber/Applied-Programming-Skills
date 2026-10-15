@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
@@ -11,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
@@ -67,9 +69,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
