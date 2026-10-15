@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0622-design-circular-queue](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0997-find-the-town-judge](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 ## Divide and Conquer
@@ -80,4 +81,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0257-binary-tree-paths) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
