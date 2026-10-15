@@ -5,16 +5,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -26,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0215-kth-largest-element-in-an-array) |
+| [0695-max-area-of-island](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 | [0997-find-the-town-judge](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
 ## Divide and Conquer
 |  |
@@ -47,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0997-find-the-town-judge](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0997-find-the-town-judge) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/vtu29937-cyber/Applied-Programming-Skills/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
